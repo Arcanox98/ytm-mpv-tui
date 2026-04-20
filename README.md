@@ -1,3 +1,5 @@
+# NOTA IMPORTANE
+NO ESTOY SEGURO SI FUNCIONA EN OTRAS DISTRIBUCIONES SOLO TESTEADO EN MI SISTEMA
 # YTM-MPV-TUI
 
 Un reproductor de YouTube Music para la terminal basado en Python, Textual y MPV.
